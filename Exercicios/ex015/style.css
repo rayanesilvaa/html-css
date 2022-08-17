@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+
+main {
+    background-color: rgb(46, 223, 223);
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+
+}
+
+a {
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
